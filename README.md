@@ -2,6 +2,7 @@
 Rider app for **QuickFoodRide**.
 
 ## Features:
+* **Request for Rider registration**
 * **New Ride notification**
 * **Ride details**
 * **Customer info**
